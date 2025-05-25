@@ -7,7 +7,7 @@ created_at: "2025-05-20"
 
 # May 20th: the idea
 
-[today i came up with the idea for a universal tv remote and mapped out my plan on a picture of the DL-44. i also started researching into the differences between a RP pico and an arduino. i have settled on an pico and am planning to start on the circuit schematic tomorrow]
+today i came up with the idea for a universal tv remote and mapped out my plan on a picture of the DL-44. i also started researching into the differences between a RP pico and an arduino. i have settled on an pico and am planning to start on the circuit schematic tomorrow
 
 ![Screenshot 2025-05-17 110114](https://github.com/user-attachments/assets/14400e00-e1ed-4b52-bd47-f8ef91e446f7)
 
@@ -15,8 +15,16 @@ created_at: "2025-05-20"
 
 # May 22nd: schematicing
 
-[today i loaded up kicad and designed the schematic for my blaster remote. i picked a raspberry pi pico for the microcontroller and decided on the number of buttons required. 12 buttons are necesary: on/off, soucre, volume +/-, channel +/-, up, down, left, right, select, and one to select which kind of tv your using.]
+today i loaded up kicad and designed the schematic for my blaster remote. i picked a raspberry pi pico for the microcontroller and decided on the number of buttons required. 12 buttons are necesary: on/off, soucre, volume +/-, channel +/-, up, down, left, right, select, and one to select which kind of tv your using.
 
 ![Screenshot 2025-05-22 203044](https://github.com/user-attachments/assets/9544f1fe-c4d1-49f9-8cfb-3ec1a5d87e89)
+
+**Total time spent: 1h**
+
+# May 24th: schematicing part 2
+
+so i thought i had it all figured out with the RP pico, until i realized there would actually be too much power draw for it to work with batteries. i went through and changed the RP pico out for an arduino nano. i also added connector pins and sockets to the circuit because i need to have the buttons on two separate boards so one can go down in the handle. i also added the footprints and switched it over to the pcb maker thingy.
+
+![Screenshot 2025-05-24 111457](https://github.com/user-attachments/assets/deee781a-224e-4c59-b981-aac3f14f10ba)
 
 **Total time spent: 1h**
