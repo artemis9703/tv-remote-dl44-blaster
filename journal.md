@@ -28,3 +28,11 @@ so i thought i had it all figured out with the RP pico, until i realized there w
 ![Screenshot 2025-05-24 111457](https://github.com/user-attachments/assets/deee781a-224e-4c59-b981-aac3f14f10ba)
 
 **Total time spent: 1h**
+
+# May 25th: the actual board bits
+
+today i switched everything over to the pcb maker thingy and tried to lay it out. the first descision was to but the buttons on the backs off the boards so they could stick through the handle. after that, layout and size were the only problems. i couldn't make it too big because the hilt isnt very thick. i thought i had it figured out until i started trying to wire everything. the amount of vias on these boards is insane. whoever manages to manufacture this should get an award. i think i managed to get everything figured out, though. tomorrow its on to solldiworks.
+
+![Screenshot 2025-05-25 184550](https://github.com/user-attachments/assets/a573c34f-c4bc-4413-ab43-22bb67548f3a)
+
+**Total time spent: 3h**
