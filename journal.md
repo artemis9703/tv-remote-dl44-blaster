@@ -36,3 +36,11 @@ today i switched everything over to the pcb maker thingy and tried to lay it out
 ![Screenshot 2025-05-25 184550](https://github.com/user-attachments/assets/a573c34f-c4bc-4413-ab43-22bb67548f3a)
 
 **Total time spent: 3h**
+
+# May 29th: solidworks, yay :/
+
+so it took me a few days to get on solidworks and start but here we are. im going to try to 3d sketch this blaster outline, then cut it in half to carve out spots for the wiring and stuff. i didnt really get that far before i remembered why i hate solidworks and just modeling in general. i have no idea how to extrude surfaces so pretty much everything i got done is paper thin and unprintable. after that realisation (realization? spelling is hard) i pretty much gave up for the day. morale is low. but yeah, so tomorrow we get to continue. yaaay.
+
+![Screenshot 2025-05-29 202615](https://github.com/user-attachments/assets/95fd4705-ad9a-46ee-9764-3a2aa909069f)
+
+**Total time spent: 1h**
