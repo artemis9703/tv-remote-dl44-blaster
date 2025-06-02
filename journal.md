@@ -27,7 +27,7 @@ so i thought i had it all figured out with the RP pico, until i realized there w
 
 ![Screenshot 2025-05-24 111457](https://github.com/user-attachments/assets/deee781a-224e-4c59-b981-aac3f14f10ba)
 
-**Total time spent: 1h**
+**Total time spent: 1.5h**
 
 # May 25th: the actual board bits
 
@@ -44,3 +44,11 @@ so it took me a few days to get on solidworks and start but here we are. im goin
 ![Screenshot 2025-05-29 202615](https://github.com/user-attachments/assets/95fd4705-ad9a-46ee-9764-3a2aa909069f)
 
 **Total time spent: 1h**
+
+# May 31th: actual progress
+
+i took a break to wallow in my hatred in solidworks then hopped back on to try again. this time i figured out that 3d sketching wasnt the way to go when i could just 2d sketch it and revolve stuff. so yeah, today went a lot better. something came up so i couldnt work for very long but i think i made good progress. i also scaled it accurately. 
+
+![Screenshot 2025-06-02 023926](https://github.com/user-attachments/assets/0ea3091d-647d-4ee5-bb54-e86a16099665)
+
+**Total time spent: 0.5h**
