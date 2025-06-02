@@ -52,3 +52,11 @@ i took a break to wallow in my hatred in solidworks then hopped back on to try a
 ![Screenshot 2025-06-02 023926](https://github.com/user-attachments/assets/0ea3091d-647d-4ee5-bb54-e86a16099665)
 
 **Total time spent: 0.5h**
+
+# June 2nd: more solidworks
+
+i meant to work on this yesterday but we were busy so here we are. today i made some progress on the scope aka where the batteries go. i think i got it done for the most part but i still havent figured out how to wire stuff into it yet. this took an embarassing long time for a little bit of progress but i digress. tomorrow i will start working on the handle maybe.
+
+![Screenshot 2025-06-02 033307](https://github.com/user-attachments/assets/fd182e50-9c11-4f0f-8266-0f74468a57a0)
+
+**Total time spent: 1h**
