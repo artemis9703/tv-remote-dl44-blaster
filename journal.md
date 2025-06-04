@@ -60,3 +60,11 @@ i meant to work on this yesterday but we were busy so here we are. today i made 
 ![Screenshot 2025-06-02 033307](https://github.com/user-attachments/assets/fd182e50-9c11-4f0f-8266-0f74468a57a0)
 
 **Total time spent: 1h**
+
+# June 4th: even more solidworks
+
+today i decided to get a ton done and then i got distracted (foreigner is rly good) so i didnt but i did make some progress on the handle. i realized my circuit board wouldnt fit inside the handle if i left it the movie accurate size so i had to expand it some. after expanding it none of the other pieces fit together so i had to rework the entire base. and then i realized i extruded it too skinny for the boards so i went through and re-extruded everything. other than that i thought this sesh went pretty good. im getting out of my solidworks slump so yaaay!!
+
+![Screenshot 2025-06-04 004018](https://github.com/user-attachments/assets/f2d80d89-71aa-4f42-9acc-d9add2dc06b1)
+
+**Total time spent: 1.5h**
