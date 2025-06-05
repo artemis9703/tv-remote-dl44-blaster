@@ -68,3 +68,11 @@ today i decided to get a ton done and then i got distracted (foreigner is rly go
 ![Screenshot 2025-06-04 004018](https://github.com/user-attachments/assets/f2d80d89-71aa-4f42-9acc-d9add2dc06b1)
 
 **Total time spent: 1.5h**
+
+# June 5th: details!!
+
+i added a ton of the finer details today, i was not really excited but this actually turned out to be pretty fun. i got the holes in the barrel thingy done and the details on the main box place. this took a longer than i would have wanted it too, but i think i have enough time to go slower. so yeah, i think today went pretty good.
+
+![Screenshot 2025-06-05 012421](https://github.com/user-attachments/assets/97e9d672-3117-49be-9ac7-f04a65425f3b)
+
+**Total time spent: 1.5h**
