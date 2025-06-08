@@ -76,3 +76,11 @@ i added a ton of the finer details today, i was not really excited but this actu
 ![Screenshot 2025-06-05 012421](https://github.com/user-attachments/assets/97e9d672-3117-49be-9ac7-f04a65425f3b)
 
 **Total time spent: 1.5h**
+
+# June 7th: done with the initial model
+
+today i finished modeling the gun!!! but not really, i still have to add the threads for the caps on the battery pack and hollow out the inside. i got the first thread on the end of the scope. i also looked into battery options more because i need 5v and dont have space for four double a's. i didnt come up with anything good and am going to try again tomorrow. again, this is all taking a lot longer than i would like, but what can i do.  
+
+![Screenshot 2025-06-07 225000](https://github.com/user-attachments/assets/2f3d4491-ae27-4e49-a7d1-50a99053aa94)
+
+**Total time spent: 1.5h**
