@@ -84,3 +84,11 @@ today i finished modeling the gun!!! but not really, i still have to add the thr
 ![Screenshot 2025-06-07 225000](https://github.com/user-attachments/assets/2f3d4491-ae27-4e49-a7d1-50a99053aa94)
 
 **Total time spent: 1.5h**
+
+# June 17th: some progress
+
+yes, its been ten days. i know. i've been getting super stuck on this project right towards the end, like usual. i tried again today and finally got something done. i made the trigger mechanism and outlined the places for the circuit boards. i tried to start writing the code but got hopelessly lost. im going to see if i cant try again tomorrow.
+
+![Screenshot 2025-06-17 033411](https://github.com/user-attachments/assets/7427cfb1-ea40-4af1-b8b6-5db97cd543a6)
+
+**Total time spent: 0.5h**
