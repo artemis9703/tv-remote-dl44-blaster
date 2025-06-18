@@ -92,3 +92,11 @@ yes, its been ten days. i know. i've been getting super stuck on this project ri
 ![Screenshot 2025-06-17 033411](https://github.com/user-attachments/assets/7427cfb1-ea40-4af1-b8b6-5db97cd543a6)
 
 **Total time spent: 0.5h**
+
+# June 18th: circuit board problems :(
+
+today i got more excited about the project and worked on the cut outs for the circuit boards again. i also hopped on jlcpcb and tried to figure out how to order the boards. ran into a couple dead ends there and then realized the arduino is unflashable because the circuit boards is like over the whole thing. tomorrow i might try to start writing the code for the arduino. my dad used to teach a class about this and said he would teach me, so that should go well.
+
+![Screenshot 2025-06-18 042630](https://github.com/user-attachments/assets/dc8b668c-9a10-46bd-b22b-4e83fe86581e)
+
+**Total time spent: 1.5h**
