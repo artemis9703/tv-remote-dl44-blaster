@@ -100,3 +100,11 @@ today i got more excited about the project and worked on the cut outs for the ci
 ![Screenshot 2025-06-18 042630](https://github.com/user-attachments/assets/dc8b668c-9a10-46bd-b22b-4e83fe86581e)
 
 **Total time spent: 1.5h**
+
+# June 18th (part 2): first circuit board slot done!! 
+
+so today i did some planning. i've decided how im going to fit the circuit board into the handle. im going to make a separate peice that can fit in between the two sides of the handle and snap the board into that. i also decided that the usb connecter on pcb numero uno is fine and doesnt need adjusting. this project wont require me to flash it after i do breadboard testing. i got the first slot done for the pcb!!! alexren's design contest is really helping me get back into this so thank you alexren. i think what i really needed was a good deadline to work against. after finishing the first pcb slot i tried to make a space for the IR LED but realized i have no idea how to read the diagram on the size. i also downloaded arduino ide to start programming soon.
+
+![Screenshot 2025-06-19 015506](https://github.com/user-attachments/assets/f54e1f96-ee79-45d2-9da1-3c537cbab0a4)
+
+**Total time spent: 2h**
