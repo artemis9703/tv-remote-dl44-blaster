@@ -108,3 +108,11 @@ so today i did some planning. i've decided how im going to fit the circuit board
 ![Screenshot 2025-06-19 015506](https://github.com/user-attachments/assets/f54e1f96-ee79-45d2-9da1-3c537cbab0a4)
 
 **Total time spent: 2h**
+
+# June 20th: MODEL DONE!!
+
+so its 1 am. were a few miles off the coast of california now, and ive just finished the model!! i moved the button for changing tv brand down to the bottom of the model and made a space for it there. i also sized and finished up the slot for the LED. after that, i made a cover for the main button pcb and decided how that would fit it to the design. later today im going to open up arduino IDE and get started on that. im super happy the model is done, and i feel confident i can finish this up before the 26th!!
+
+![Screenshot 2025-06-20 010506](https://github.com/user-attachments/assets/be747c7c-df22-4fed-8773-10e69c5a9f33)
+
+**Total time spent: 3h**
