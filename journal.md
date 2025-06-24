@@ -3,6 +3,7 @@ title: "Han Solo's Universal TV Remote"
 author: "Art3mis"
 description: "a universal tv remote disguised as han solo's DL-44 blaster"
 created_at: "2025-05-20"
+total_time_spent: "27h"
 ---
 
 # May 20th: the idea
