@@ -116,3 +116,19 @@ so its 1 am. were a few miles off the coast of california now, and ive just fini
 ![Screenshot 2025-06-20 010506](https://github.com/user-attachments/assets/be747c7c-df22-4fed-8773-10e69c5a9f33)
 
 **Total time spent: 3h**
+
+# June 21st: ...arduino ide
+
+i tried to start writing the code today... and it actually went better than i thought. my dad had to help some, but whatever language arduino ide uses is actually fairly easy to understand. i got through a good chuck of it today and im quite happy. got a couple errors, but im gonna get the whole script down and then debug. again, it took me quite a while, but i was able to stay focused for a good chunk of time :).
+
+![Screenshot 2025-06-23 214311](https://github.com/user-attachments/assets/b865db27-1fae-4ac9-8b0e-9b74d8d07b48)
+
+**Total time spent: 2.5h**
+
+# June 23rd: WE'RE DONE!!
+
+ok, not really. i still have to submit and order the parts and build and stuff, but i can submit now!! i finished writing the code for the blaster today!! im going to try to submit it now, hopefully it gets approved!! and, i finished this in time for alexren's design contest!! figured out the error was just a missing semicolon, of course. the IR codes for the different tv brands were kind of difficult to find but i eventually got them all. i decided to only include 3 brands for now, and if i decide to add more later i can. super excited that my first original project is becoming an actually thing!!
+
+![Screenshot 2025-06-23 213926](https://github.com/user-attachments/assets/1cacff9a-e5be-4cba-b342-5f9bd1f4d890)
+
+**Total time spent: 3h**
