@@ -12,9 +12,12 @@ project photos :)
 
 BOM
 
----
-Designator: "A1", "BT1, BT2, BT3, BT4", "D1", "J1", "J2", "R1, R10, R11, R12, R13, R2, R3, R4, R5, R6, R7, R8, R9", "SW1, SW10, SW11, SW12, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9"	
-Footprint: "Arduino_Nano", "SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm", "LED_D3.0mm_IRBlack", "PinHeader_1x11_P2.54mm_Vertical", "PinHeader_1x11_P2.54mm_Vertical", "R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal", "SW_PUSH_6mm"
-Quantity:	"1", "4", "1", "1", "1", "13", "12"
-Value: "Arduino_Nano_v2.x", "Battery_Cell", "IR204A", "Conn_01x11_Socket", "Conn_01x11_Pin", "R", "SW_PUSH"
----
+| Designator | Footprint                          | Quantity | Value           |
+|------------|------------------------------------|----------|-----------------|
+| A1         | Arduino_Nano                       | 1        | Arduino_Nano_v2.x |
+| BT1, BT2, BT3, BT4 | SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm | 4 | Battery_Cell |
+| D1         | LED_D3.0mm_IRBlack                 | 1        | IR204A          |
+| J1         | PinHeader_1x11_P2.54mm_Vertical    | 1        | Conn_01x11_Socket |
+| J2         | PinHeader_1x11_P2.54mm_Vertical    | 1        | Conn_01x11_Pin  |
+| R1, R10, R11, R12, R13, R2, R3, R4, R5, R6, R7, R8, R9 | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | 13 | R |
+| SW1, SW10, SW11, SW12, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9 | SW_PUSH_6mm | 12 | SW_PUSH |
